@@ -26,7 +26,7 @@
     <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="60px"/>
     <img src="https://img.icons8.com/nolan/64/sql.png" width="60px"/>
     <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="60px"/>  
-    <img src="https://raw.githubusercontent.com/Nibleash/Nibleash/master/neo4j.png" width="100px"/>
+    <img src="https://github.com/Nibleash/Nibleash/blob/master/neo4j.png" width="140px"/>
 </p>
 
 **Tools**
