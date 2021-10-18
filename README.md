@@ -37,11 +37,11 @@
     <img src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
     <img src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
-    <img src="https://logo-marque.com/wp-content/uploads/2020/10/Oracle-Logo-1995-Present.jpg" width="90px"/>
-    <img src="https://miro.medium.com/max/502/1*sXs3TvhjvXcVCTldKnwMpA.png" width="100px"/>
+    <img src="https://github.com/Nibleash/Nibleash/blob/master/oracle.png" width="110px"/>
+    <img src="https://github.com/Nibleash/Nibleash/blob/master/jupyter_colab.png" width="130px"/>
     <img src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
-    <img src="https://www.visiativ-solutions.fr/wp-content/uploads/2018/05/logo-catia.jpg" width="100px"/>   
+    <img src="https://github.com/Nibleash/Nibleash/blob/master/catia.png" width="130px"/>   
 </p>
 
 <br>
