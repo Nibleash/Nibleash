@@ -7,9 +7,9 @@
 
 - :atom: I’m currently working with *Art Trope Gallery* to create an innovative model combining **Art and IA**.
 
-- 📚 I’m currently learning **Design Pattern & Software development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**, so watch out for upcoming projects publications !
+- 📚 I’m currently learning **Design Pattern & Software Development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**. So watch out for upcoming projects publications !
 
-- :computer:👀 I’m looking for an **Internship of 4 or 5 months** as in the DataScience or DataEngineering field, starting April 4th 2022.
+- :computer:👀 I’m looking for an **Internship of 4 or 5 months** in the DataScience or DataEngineering field, starting April 4th 2022.
 
 - ⚡ Fun fact - I sometimes **garden** when I am not **climbing**.
 
@@ -52,7 +52,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nibleash&layout=compact&theme=dark" alt="top-langs" />
 </p>
 
-*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+*NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a GitHub metric of which languages i have the most code on GitHub.*
 
 <p align="center"> 
   Visitors Count<br>
