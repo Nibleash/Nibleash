@@ -5,7 +5,7 @@
 
 ## 🍗 About Me
 
-- 🔭 I’m currently working on ...
+- :atom: I’m currently working with *Art Trope Gallery* to create an innovative model combining **Art and IA**.
 
 - 📚 I’m currently learning **Design Pattern & Software development, Machine Learning, DIA Bootsrap, Advanced Database Management and Python for Data Analysis**, so watch out for upcoming projects publications !
 
