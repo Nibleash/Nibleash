@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact - I sometimes **garden** when I am not **climbing**.
 
-- 📫 How to reach me: ugo.demy82@gmail.com or [![LinkedIn][2.2]][1]
+- 📫 How to reach me: ugo.demy82@gmail.com or <a href="https://github.com/MartinHeinz/MartinHeinz">LinkedIn</a>
 
 <br>
 
@@ -21,26 +21,27 @@
 
 **Programming Languages**
 
-<p align="left"> 
-    <img src="https://lesdieuxducode.com/images/blog/remyfricou@expaceo0onmicrosoftcom/csharp.jpg" width="50px"/>
-    <img src="https://media.istockphoto.com/vectors/vector-illustration-of-an-icon-of-the-python-programming-language-vector-id1152382561?k=20&m=1152382561&s=170667a&w=0&h=fCTE3e8VRQ2TDd_roKCf7zZmvrY2E6ZhonBHrGz0rsA=" width="60px"/>
-    <img src="https://www.naxis.fr/wp-content/uploads/2020/02/3-SQL-niveau-1.jpg" width="80px"/>
-    <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="50px"/>  
-    <img src="https://www.gv.com/img/news/neo4j.jpg" width="100px"/>
+<p align="left">
+    <img src="https://img.icons8.com/color/96/000000/c-sharp-logo-2.png" width="60px"/>
+    <img src="https://img.icons8.com/color/96/000000/python--v1.png" width="60px"/>
+    <img src="https://img.icons8.com/nolan/64/sql.png" width="60px"/>
+    <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="60px"/>  
+    <img src="https://raw.githubusercontent.com/Nibleash/Nibleash/master/neo4j.png" width="100px"/>
 </p>
 
 **Tools**
 
 <p align="left"> 
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
-    <img src="https://4.bp.blogspot.com/-LkqokqmEppg/WpPtc9nKiAI/AAAAAAAAIV8/ZSnKakPXQYQV-iAyLuqdQq82sTexFIwbgCLcBGAs/s1600/anaconda-card.jpg" width="50px"/>
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/>
-    <img src="https://logo-marque.com/wp-content/uploads/2020/10/Oracle-Logo-1995-Present.jpg" width="80px"/>
-    <img src="https://miro.medium.com/max/502/1*sXs3TvhjvXcVCTldKnwMpA.png" width="90px"/>
-    <img src="https://img.icons8.com/color/48/000000/solidworks.png"/>   
-    <img src="https://www.duchess-france.org/wp-content/uploads/2015/07/mysql-logo-png-300x225.png" width="70px"/>
-    <img src="https://www.visiativ-solutions.fr/wp-content/uploads/2018/05/logo-catia.jpg" width="90px"/>   
+    <img src="https://img.icons8.com/color/96/000000/visual-studio.png" width="60px"/>
+    <img src="https://img.icons8.com/dusk/64/000000/anaconda.png" width="60px"/>
+    <img src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
+    <img src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
+    <img src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
+    <img src="https://logo-marque.com/wp-content/uploads/2020/10/Oracle-Logo-1995-Present.jpg" width="90px"/>
+    <img src="https://miro.medium.com/max/502/1*sXs3TvhjvXcVCTldKnwMpA.png" width="100px"/>
+    <img src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
+    <img src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
+    <img src="https://www.visiativ-solutions.fr/wp-content/uploads/2018/05/logo-catia.jpg" width="100px"/>   
 </p>
 
 <br>
@@ -59,10 +60,6 @@
 </p>
 
 <br>
-
-<!-- Icons -->
-
-[2.2]: <img src="https://predom.fr/wp-content/uploads/2021/04/Linkedin-Logo-2.png" width="50px" heigth="30px"> (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
