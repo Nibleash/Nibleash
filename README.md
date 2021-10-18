@@ -26,7 +26,7 @@
     <img title="Python" src="https://img.icons8.com/color/96/000000/python--v1.png" width="60px"/>
     <img title="SQL" src="https://img.icons8.com/nolan/64/sql.png" width="60px"/>
     <img title="R" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png" width="60px"/>  
-    <img title="Cypher" src="https://github.com/Nibleash/Nibleash/blob/master/neo4j.png" width="140px"/>
+    <img title="Cypher" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/neo4j.png" width="140px"/>
 </p>
 
 **Tools**
@@ -37,11 +37,11 @@
     <img title="Microsoft Office" src="https://img.icons8.com/fluency/96/000000/microsoft-office-2019.png" width="60px"/>
     <img title="Spyder" src="https://img.icons8.com/fluency/96/000000/spyder-ide.png" width="60px"/>
     <img title="PyCharm" src="https://img.icons8.com/color/96/000000/pycharm.png" width="60px"/>
-    <img title="Oracle" src="https://github.com/Nibleash/Nibleash/blob/master/oracle.png" width="110px"/>
-    <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/jupyter_colab.png" width="130px"/>
+    <img title="Oracle" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/oracle.png" width="110px"/>
+    <img title="Jupyter & Colab Notebook" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/jupyter_colab.png" width="130px"/>
     <img title="SolidWorks" src="https://img.icons8.com/color/96/000000/solidworks.png" width="60px"/>
     <img title="MySQL" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png" width="60px"/>
-    <img title="Catia Dassault Systemes" src="https://github.com/Nibleash/Nibleash/blob/master/catia.png" width="130px"/>   
+    <img title="Catia Dassault Systemes" src="https://github.com/Nibleash/Nibleash/blob/master/images_logo/catia.png" width="130px"/>   
 </p>
 
 <br>
